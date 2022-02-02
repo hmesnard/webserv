@@ -1,0 +1,12 @@
+<?php
+    print("<html>\n");
+    print("\t<body>\n");
+    print("<p>salut!!</p>\n");
+    print("<p>");
+    print($_GET["var1"]);
+    print("<br>");
+    print($_GET["var2"]);
+    print("</p>");
+    print("\t</body>\n");
+    print("</html>\n");
+?>
